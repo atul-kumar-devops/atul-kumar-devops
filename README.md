@@ -31,7 +31,7 @@ With a strong background in **Azure Cloud**, **Infrastructure as Code (Terraform
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/atul-kumar-042788185)
-- 📧 [atul.kumar.wm@example.com](mailto:atul.kumar.wm@gmail.com)
+- 📧 [atul.kumar.wm@gmail.com](mailto:atul.kumar.wm@gmail.com)
 
 Thanks for visiting! Feel free to explore my projects or reach out if you're interested in collaboration.
 
